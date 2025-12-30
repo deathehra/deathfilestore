@@ -1,0 +1,1305 @@
+[27-Dec-25 03:32:55 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/Movies8777
+[27-Dec-25 03:32:55 - INFO] - bot -        
+
+
+  ___ ___  ___  ___ ___ _    _____  _____  ___ _____ ___ 
+ / __/ _ \|   \| __| __| |  |_ _\ \/ / _ )/ _ \_   _/ __|
+| (_| (_) | |) | _|| _|| |__ | | >  <| _ \ (_) || | \__  \___\___/|___/|___|_| |____|___/_/\_\___/\___/ |_| |___/
+                                                         
+ 
+                                          
+[27-Dec-25 03:32:55 - INFO] - bot - Bot Running..! Made by @Movies8777
+[27-Dec-25 03:32:55 - INFO] - bot - Bot is now running. Thanks to @Movies8777
+[27-Dec-25 03:32:56 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:32:56 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:32:56 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:32:56 +0000] "GET / HTTP/1.1" 200 181 "-" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:32:56 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:32:56 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:32:57 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:32:57 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:33:54 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:33:54 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:33:54 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:33:54 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:33:54 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:33:54 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:34:02 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:34:02 +0000] "GET / HTTP/1.1" 200 181 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+[27-Dec-25 03:34:03 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:34:03 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+[27-Dec-25 03:34:03 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/Movies8777
+[27-Dec-25 03:34:03 - INFO] - bot -        
+
+
+  ___ ___  ___  ___ ___ _    _____  _____  ___ _____ ___ 
+ / __/ _ \|   \| __| __| |  |_ _\ \/ / _ )/ _ \_   _/ __|
+| (_| (_) | |) | _|| _|| |__ | | >  <| _ \ (_) || | \__  \___\___/|___/|___|_| |____|___/_/\_\___/\___/ |_| |___/
+                                                         
+ 
+                                          
+[27-Dec-25 03:34:03 - INFO] - bot - Bot Running..! Made by @Movies8777
+[27-Dec-25 03:35:10 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:35:10 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:35:10 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:35:10 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:35:10 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:35:10 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:37:48 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:37:48 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:37:48 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:37:48 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:37:48 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:37:48 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:37:55 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/Movies8777
+[27-Dec-25 03:37:55 - INFO] - bot -        
+
+
+  ___ ___  ___  ___ ___ _    _____  _____  ___ _____ ___ 
+ / __/ _ \|   \| __| __| |  |_ _\ \/ / _ )/ _ \_   _/ __|
+| (_| (_) | |) | _|| _|| |__ | | >  <| _ \ (_) || | \__  \___\___/|___/|___|_| |____|___/_/\_\___/\___/ |_| |___/
+                                                         
+ 
+                                          
+[27-Dec-25 03:37:55 - INFO] - bot - Bot Running..! Made by @Movies8777
+[27-Dec-25 03:39:18 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:39:18 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:39:18 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:39:18 +0000] "GET / HTTP/1.1" 200 181 "-" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:39:19 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:39:19 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:39:19 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:39:19 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:39:58 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[27-Dec-25 03:39:58 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[27-Dec-25 03:39:59 - INFO] - apscheduler.scheduler - Added job "remove_expired_users" to job store "default"
+[27-Dec-25 03:39:59 - INFO] - apscheduler.scheduler - Added job "daily_reset_task" to job store "default"
+[27-Dec-25 03:39:59 - INFO] - apscheduler.scheduler - Scheduler started
+[27-Dec-25 03:39:59 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/Movies8777
+[27-Dec-25 03:39:59 - INFO] - bot -        
+
+
+  ___ ___  ___  ___ ___ _    _____  _____  ___ _____ ___ 
+ / __/ _ \|   \| __| __| |  |_ _\ \/ / _ )/ _ \_   _/ __|
+| (_| (_) | |) | _|| _|| |__ | | >  <| _ \ (_) || | \__  \___\___/|___/|___|_| |____|___/_/\_\___/\___/ |_| |___/
+                                                         
+ 
+                                          
+[27-Dec-25 03:39:59 - INFO] - bot - Bot Running..! Made by @Movies8777
+[27-Dec-25 03:40:00 - INFO] - bot - Bot is now running. Thanks to @Movies8777
+[27-Dec-25 03:40:00 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:40:00 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:40:00 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:40:00 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:40:00 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:40:00 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:41:23 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/Movies8777
+[27-Dec-25 03:41:23 - INFO] - bot -        
+
+
+  ___ ___  ___  ___ ___ _    _____  _____  ___ _____ ___ 
+ / __/ _ \|   \| __| __| |  |_ _\ \/ / _ )/ _ \_   _/ __|
+| (_| (_) | |) | _|| _|| |__ | | >  <| _ \ (_) || | \__  \___\___/|___/|___|_| |____|___/_/\_\___/\___/ |_| |___/
+                                                         
+ 
+                                          
+[27-Dec-25 03:41:23 - INFO] - bot - Bot Running..! Made by @Movies8777
+[27-Dec-25 03:41:23 - INFO] - bot - Bot is now running. Thanks to @Movies8777
+[27-Dec-25 03:41:23 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:41:23 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:41:23 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:41:23 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:41:23 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:41:23 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:42:51 - ERROR] - pyrogram.dispatcher - Unhandled exception: Cannot connect to host http:443 ssl:False [Name or service not known]
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/connector.py", line 1532, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/connector.py", line 1148, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/connector.py", line 1179, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/resolver.py", line 40, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nix/store/vnvdzw4182wb2ifzi0cczhv80yfnpx1q-python3-3.12.11/lib/python3.12/asyncio/base_events.py", line 905, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nix/store/vnvdzw4182wb2ifzi0cczhv80yfnpx1q-python3-3.12.11/lib/python3.12/concurrent/futures/thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nix/store/vnvdzw4182wb2ifzi0cczhv80yfnpx1q-python3-3.12.11/lib/python3.12/socket.py", line 978, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno -2] Name or service not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/shortzy/adlinkfly.py", line 49, in convert
+    data = await self.__fetch(session, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/shortzy/adlinkfly.py", line 17, in __fetch
+    async with session.get(
+               ^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/client.py", line 1510, in __aenter__
+    self._resp: _RetType = await self._coro
+                           ^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/client.py", line 779, in _request
+    resp = await handler(req)
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/client.py", line 734, in _connect_and_send_request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/connector.py", line 642, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/connector.py", line 1209, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/connector.py", line 1538, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host http:443 ssl:False [Name or service not known]
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 370, in _process_packet
+    await self._execute_callback(handler, parsed_update)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 407, in _execute_callback
+    await handler.callback(self.client, *args)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/handlers/message_handler.py", line 154, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/home/runner/workspace/plugins/start.py", line 117, in start_command
+    shortlink = await get_shortlink(SHORTLINK_URL, SHORTLINK_API, verify_link)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/helper_func.py", line 229, in get_shortlink
+    link = await shortzy.convert(link)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/shortzy/main.py", line 56, in convert
+    return await self.shortener.convert(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/shortzy/adlinkfly.py", line 60, in convert
+    raise Exception(e)
+Exception: Cannot connect to host http:443 ssl:False [Name or service not known]
+[27-Dec-25 03:42:56 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:42:56 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:42:56 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:42:56 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:42:56 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:42:56 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:43:53 - ERROR] - pyrogram.dispatcher - Unhandled exception: Cannot connect to host http:443 ssl:False [Name or service not known]
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/connector.py", line 1532, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/connector.py", line 1148, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/connector.py", line 1179, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/resolver.py", line 40, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nix/store/vnvdzw4182wb2ifzi0cczhv80yfnpx1q-python3-3.12.11/lib/python3.12/asyncio/base_events.py", line 905, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nix/store/vnvdzw4182wb2ifzi0cczhv80yfnpx1q-python3-3.12.11/lib/python3.12/concurrent/futures/thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nix/store/vnvdzw4182wb2ifzi0cczhv80yfnpx1q-python3-3.12.11/lib/python3.12/socket.py", line 978, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno -2] Name or service not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/shortzy/adlinkfly.py", line 49, in convert
+    data = await self.__fetch(session, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/shortzy/adlinkfly.py", line 17, in __fetch
+    async with session.get(
+               ^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/client.py", line 1510, in __aenter__
+    self._resp: _RetType = await self._coro
+                           ^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/client.py", line 779, in _request
+    resp = await handler(req)
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/client.py", line 734, in _connect_and_send_request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/connector.py", line 642, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/connector.py", line 1209, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/connector.py", line 1538, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host http:443 ssl:False [Name or service not known]
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 370, in _process_packet
+    await self._execute_callback(handler, parsed_update)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 407, in _execute_callback
+    await handler.callback(self.client, *args)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/handlers/message_handler.py", line 154, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/home/runner/workspace/plugins/start.py", line 117, in start_command
+    shortlink = await get_shortlink(SHORTLINK_URL, SHORTLINK_API, verify_link)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/helper_func.py", line 229, in get_shortlink
+    link = await shortzy.convert(link)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/shortzy/main.py", line 56, in convert
+    return await self.shortener.convert(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/shortzy/adlinkfly.py", line 60, in convert
+    raise Exception(e)
+Exception: Cannot connect to host http:443 ssl:False [Name or service not known]
+[27-Dec-25 03:46:31 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:46:31 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:46:31 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:46:31 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:46:32 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:46:32 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:46:43 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/Movies8777
+[27-Dec-25 03:46:43 - INFO] - bot -        
+
+
+  ___ ___  ___  ___ ___ _    _____  _____  ___ _____ ___ 
+ / __/ _ \|   \| __| __| |  |_ _\ \/ / _ )/ _ \_   _/ __|
+| (_| (_) | |) | _|| _|| |__ | | >  <| _ \ (_) || | \__  \___\___/|___/|___|_| |____|___/_/\_\___/\___/ |_| |___/
+                                                         
+ 
+                                          
+[27-Dec-25 03:46:43 - INFO] - bot - Bot Running..! Made by @Movies8777
+[27-Dec-25 03:46:44 - INFO] - bot - Bot is now running. Thanks to @Movies8777
+[27-Dec-25 03:46:44 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:46:44 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:46:44 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:46:44 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:46:44 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:46:44 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:47:00 - ERROR] - pyrogram.dispatcher - Unhandled exception: Cannot connect to host http:443 ssl:False [Name or service not known]
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/connector.py", line 1532, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/connector.py", line 1148, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/connector.py", line 1179, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/resolver.py", line 40, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nix/store/vnvdzw4182wb2ifzi0cczhv80yfnpx1q-python3-3.12.11/lib/python3.12/asyncio/base_events.py", line 905, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nix/store/vnvdzw4182wb2ifzi0cczhv80yfnpx1q-python3-3.12.11/lib/python3.12/concurrent/futures/thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nix/store/vnvdzw4182wb2ifzi0cczhv80yfnpx1q-python3-3.12.11/lib/python3.12/socket.py", line 978, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno -2] Name or service not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/shortzy/adlinkfly.py", line 49, in convert
+    data = await self.__fetch(session, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/shortzy/adlinkfly.py", line 17, in __fetch
+    async with session.get(
+               ^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/client.py", line 1510, in __aenter__
+    self._resp: _RetType = await self._coro
+                           ^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/client.py", line 779, in _request
+    resp = await handler(req)
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/client.py", line 734, in _connect_and_send_request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/connector.py", line 642, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/connector.py", line 1209, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/connector.py", line 1538, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host http:443 ssl:False [Name or service not known]
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 370, in _process_packet
+    await self._execute_callback(handler, parsed_update)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 407, in _execute_callback
+    await handler.callback(self.client, *args)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/handlers/message_handler.py", line 154, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/home/runner/workspace/plugins/start.py", line 117, in start_command
+    shortlink = await get_shortlink(SHORTLINK_URL, SHORTLINK_API, verify_link)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/helper_func.py", line 229, in get_shortlink
+    link = await shortzy.convert(link)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/shortzy/main.py", line 56, in convert
+    return await self.shortener.convert(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/shortzy/adlinkfly.py", line 60, in convert
+    raise Exception(e)
+Exception: Cannot connect to host http:443 ssl:False [Name or service not known]
+[27-Dec-25 03:48:32 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/Movies8777
+[27-Dec-25 03:48:32 - INFO] - bot -        
+
+
+  ___ ___  ___  ___ ___ _    _____  _____  ___ _____ ___ 
+ / __/ _ \|   \| __| __| |  |_ _\ \/ / _ )/ _ \_   _/ __|
+| (_| (_) | |) | _|| _|| |__ | | >  <| _ \ (_) || | \__  \___\___/|___/|___|_| |____|___/_/\_\___/\___/ |_| |___/
+                                                         
+ 
+                                          
+[27-Dec-25 03:48:32 - INFO] - bot - Bot Running..! Made by @Movies8777
+[27-Dec-25 03:48:32 - INFO] - bot - Bot is now running. Thanks to @Movies8777
+[27-Dec-25 03:48:32 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:48:32 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:48:33 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:48:33 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:48:33 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:48:33 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:48:54 - ERROR] - pyrogram.dispatcher - Unhandled exception: Cannot connect to host http:443 ssl:False [Name or service not known]
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/connector.py", line 1532, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/connector.py", line 1148, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/connector.py", line 1179, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/resolver.py", line 40, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nix/store/vnvdzw4182wb2ifzi0cczhv80yfnpx1q-python3-3.12.11/lib/python3.12/asyncio/base_events.py", line 905, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nix/store/vnvdzw4182wb2ifzi0cczhv80yfnpx1q-python3-3.12.11/lib/python3.12/concurrent/futures/thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nix/store/vnvdzw4182wb2ifzi0cczhv80yfnpx1q-python3-3.12.11/lib/python3.12/socket.py", line 978, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno -2] Name or service not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/shortzy/adlinkfly.py", line 49, in convert
+    data = await self.__fetch(session, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/shortzy/adlinkfly.py", line 17, in __fetch
+    async with session.get(
+               ^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/client.py", line 1510, in __aenter__
+    self._resp: _RetType = await self._coro
+                           ^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/client.py", line 779, in _request
+    resp = await handler(req)
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/client.py", line 734, in _connect_and_send_request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/connector.py", line 642, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/connector.py", line 1209, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/aiohttp/connector.py", line 1538, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host http:443 ssl:False [Name or service not known]
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 370, in _process_packet
+    await self._execute_callback(handler, parsed_update)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 407, in _execute_callback
+    await handler.callback(self.client, *args)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/handlers/message_handler.py", line 154, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/home/runner/workspace/plugins/start.py", line 118, in start_command
+    shortlink = await get_shortlink(SHORTLINK_URL, SHORTLINK_API, verify_link)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/helper_func.py", line 229, in get_shortlink
+    link = await shortzy.convert(link)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/shortzy/main.py", line 56, in convert
+    return await self.shortener.convert(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/shortzy/adlinkfly.py", line 60, in convert
+    raise Exception(e)
+Exception: Cannot connect to host http:443 ssl:False [Name or service not known]
+[27-Dec-25 03:56:55 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/Movies8777
+[27-Dec-25 03:56:55 - INFO] - bot -        
+
+
+  ___ ___  ___  ___ ___ _    _____  _____  ___ _____ ___ 
+ / __/ _ \|   \| __| __| |  |_ _\ \/ / _ )/ _ \_   _/ __|
+| (_| (_) | |) | _|| _|| |__ | | >  <| _ \ (_) || | \__  \___\___/|___/|___|_| |____|___/_/\_\___/\___/ |_| |___/
+                                                         
+ 
+                                          
+[27-Dec-25 03:56:55 - INFO] - bot - Bot Running..! Made by @Movies8777
+[27-Dec-25 03:56:55 - INFO] - bot - Bot is now running. Thanks to @Movies8777
+[27-Dec-25 03:56:56 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:56:56 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:56:56 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:56:56 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:56:56 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:56:56 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:57:27 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:57:27 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:57:27 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:57:27 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 03:57:28 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:03:57:28 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 04:04:24 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:04:04:24 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 04:04:25 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:04:04:25 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 04:06:49 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:04:06:49 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 04:06:50 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:04:06:50 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 04:06:51 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:04:06:51 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 04:06:51 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:04:06:51 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 04:07:00 - WARNING] - bot - database is locked
+[27-Dec-25 04:07:00 - WARNING] - bot - Make Sure bot is Admin in DB Channel, and Double check the CHANNEL_ID Value, Current Value -1002342435693
+[27-Dec-25 04:07:00 - INFO] - bot - 
+Bot Stopped. Join https://t.me/+BsQObvPjpd1iMzI1 for support
+[27-Dec-25 04:08:43 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/Movies8777
+[27-Dec-25 04:08:43 - INFO] - bot -        
+
+
+  ___ ___  ___  ___ ___ _    _____  _____  ___ _____ ___ 
+ / __/ _ \|   \| __| __| |  |_ _\ \/ / _ )/ _ \_   _/ __|
+| (_| (_) | |) | _|| _|| |__ | | >  <| _ \ (_) || | \__  \___\___/|___/|___|_| |____|___/_/\_\___/\___/ |_| |___/
+                                                         
+ 
+                                          
+[27-Dec-25 04:08:43 - INFO] - bot - Bot Running..! Made by @Movies8777
+[27-Dec-25 04:08:43 - INFO] - bot - Bot is now running. Thanks to @Movies8777
+[27-Dec-25 04:08:43 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:04:08:43 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 04:08:43 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:04:08:43 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 04:08:43 - INFO] - aiohttp.access - 172.31.90.194 [27/Dec/2025:04:08:43 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 11:13:45 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/Movies8777
+[27-Dec-25 11:13:45 - INFO] - bot -        
+
+
+  ___ ___  ___  ___ ___ _    _____  _____  ___ _____ ___ 
+ / __/ _ \|   \| __| __| |  |_ _\ \/ / _ )/ _ \_   _/ __|
+| (_| (_) | |) | _|| _|| |__ | | >  <| _ \ (_) || | \__  \___\___/|___/|___|_| |____|___/_/\_\___/\___/ |_| |___/
+                                                         
+ 
+                                          
+[27-Dec-25 11:13:45 - INFO] - bot - Bot Running..! Made by @Movies8777
+[27-Dec-25 11:13:45 - INFO] - bot - Bot is now running. Thanks to @Movies8777
+[27-Dec-25 11:22:53 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/Movies8777
+[27-Dec-25 11:22:53 - INFO] - bot -        
+
+
+  ___ ___  ___  ___ ___ _    _____  _____  ___ _____ ___ 
+ / __/ _ \|   \| __| __| |  |_ _\ \/ / _ )/ _ \_   _/ __|
+| (_| (_) | |) | _|| _|| |__ | | >  <| _ \ (_) || | \__  \___\___/|___/|___|_| |____|___/_/\_\___/\___/ |_| |___/
+                                                         
+ 
+                                          
+[27-Dec-25 11:22:53 - INFO] - bot - Bot Running..! Made by @Movies8777
+[27-Dec-25 11:22:53 - INFO] - bot - Bot is now running. Thanks to @Movies8777
+[27-Dec-25 11:24:46 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/Movies8777
+[27-Dec-25 11:24:46 - INFO] - bot -        
+
+
+  ___ ___  ___  ___ ___ _    _____  _____  ___ _____ ___ 
+ / __/ _ \|   \| __| __| |  |_ _\ \/ / _ )/ _ \_   _/ __|
+| (_| (_) | |) | _|| _|| |__ | | >  <| _ \ (_) || | \__  \___\___/|___/|___|_| |____|___/_/\_\___/\___/ |_| |___/
+                                                         
+ 
+                                          
+[27-Dec-25 11:24:46 - INFO] - bot - Bot Running..! Made by @Movies8777
+[27-Dec-25 11:24:47 - INFO] - bot - Bot is now running. Thanks to @Movies8777
+[27-Dec-25 11:24:47 - INFO] - aiohttp.access - 172.31.78.66 [27/Dec/2025:11:24:47 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 11:24:47 - INFO] - aiohttp.access - 172.31.78.66 [27/Dec/2025:11:24:47 +0000] "GET / HTTP/1.1" 200 181 "-" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 11:24:48 - INFO] - aiohttp.access - 172.31.78.66 [27/Dec/2025:11:24:48 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 11:24:48 - INFO] - aiohttp.access - 172.31.78.66 [27/Dec/2025:11:24:48 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 11:25:16 - ERROR] - pyrogram.dispatcher - Unhandled exception: Telegram says: [400 BUTTON_URL_INVALID] (caused by "messages.SendMessage") Pyrogram 2.3.61 thinks: The button url is invalid
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 370, in _process_packet
+    await self._execute_callback(handler, parsed_update)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 407, in _execute_callback
+    await handler.callback(self.client, *args)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/handlers/message_handler.py", line 154, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/home/runner/workspace/plugins/start.py", line 136, in start_command
+    return await message.reply(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/types/messages_and_media/message.py", line 1535, in reply_text
+    return await self._client.send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/methods/messages/send_message.py", line 205, in send_message
+    r = await self.invoke(rpc)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/methods/advanced/invoke.py", line 80, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/session/session.py", line 420, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/session/session.py", line 377, in send
+    RPCError.raise_it(result, type(data))
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/errors/rpc_error.py", line 93, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.ButtonUrlInvalid: Telegram says: [400 BUTTON_URL_INVALID] (caused by "messages.SendMessage") Pyrogram 2.3.61 thinks: The button url is invalid
+[27-Dec-25 11:25:41 - ERROR] - pyrogram.dispatcher - Unhandled exception: Telegram says: [400 BUTTON_URL_INVALID] (caused by "messages.SendMessage") Pyrogram 2.3.61 thinks: The button url is invalid
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 370, in _process_packet
+    await self._execute_callback(handler, parsed_update)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 407, in _execute_callback
+    await handler.callback(self.client, *args)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/handlers/message_handler.py", line 154, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/home/runner/workspace/plugins/start.py", line 136, in start_command
+    return await message.reply(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/types/messages_and_media/message.py", line 1535, in reply_text
+    return await self._client.send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/methods/messages/send_message.py", line 205, in send_message
+    r = await self.invoke(rpc)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/methods/advanced/invoke.py", line 80, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/session/session.py", line 420, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/session/session.py", line 377, in send
+    RPCError.raise_it(result, type(data))
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/errors/rpc_error.py", line 93, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.ButtonUrlInvalid: Telegram says: [400 BUTTON_URL_INVALID] (caused by "messages.SendMessage") Pyrogram 2.3.61 thinks: The button url is invalid
+[27-Dec-25 11:26:28 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/Movies8777
+[27-Dec-25 11:26:28 - INFO] - bot -        
+
+
+  ___ ___  ___  ___ ___ _    _____  _____  ___ _____ ___ 
+ / __/ _ \|   \| __| __| |  |_ _\ \/ / _ )/ _ \_   _/ __|
+| (_| (_) | |) | _|| _|| |__ | | >  <| _ \ (_) || | \__  \___\___/|___/|___|_| |____|___/_/\_\___/\___/ |_| |___/
+                                                         
+ 
+                                          
+[27-Dec-25 11:26:28 - INFO] - bot - Bot Running..! Made by @Movies8777
+[27-Dec-25 11:26:28 - INFO] - bot - Bot is now running. Thanks to @Movies8777
+[27-Dec-25 11:26:28 - INFO] - aiohttp.access - 172.31.78.66 [27/Dec/2025:11:26:28 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 11:26:28 - INFO] - aiohttp.access - 172.31.78.66 [27/Dec/2025:11:26:28 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 11:26:28 - INFO] - aiohttp.access - 172.31.78.66 [27/Dec/2025:11:26:28 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 11:27:49 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/Movies8777
+[27-Dec-25 11:27:49 - INFO] - bot -        
+
+
+  ___ ___  ___  ___ ___ _    _____  _____  ___ _____ ___ 
+ / __/ _ \|   \| __| __| |  |_ _\ \/ / _ )/ _ \_   _/ __|
+| (_| (_) | |) | _|| _|| |__ | | >  <| _ \ (_) || | \__  \___\___/|___/|___|_| |____|___/_/\_\___/\___/ |_| |___/
+                                                         
+ 
+                                          
+[27-Dec-25 11:27:49 - INFO] - bot - Bot Running..! Made by @Movies8777
+[27-Dec-25 11:27:49 - INFO] - bot - Bot is now running. Thanks to @Movies8777
+[27-Dec-25 11:27:50 - INFO] - aiohttp.access - 172.31.78.66 [27/Dec/2025:11:27:50 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 11:27:50 - INFO] - aiohttp.access - 172.31.78.66 [27/Dec/2025:11:27:50 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[27-Dec-25 11:27:50 - INFO] - aiohttp.access - 172.31.78.66 [27/Dec/2025:11:27:50 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 16:56:23 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/Movies8777
+[28-Dec-25 16:56:23 - INFO] - bot -        
+
+
+  ___ ___  ___  ___ ___ _    _____  _____  ___ _____ ___ 
+ / __/ _ \|   \| __| __| |  |_ _\ \/ / _ )/ _ \_   _/ __|
+| (_| (_) | |) | _|| _|| |__ | | >  <| _ \ (_) || | \__  \___\___/|___/|___|_| |____|___/_/\_\___/\___/ |_| |___/
+                                                         
+ 
+                                          
+[28-Dec-25 16:56:23 - INFO] - bot - Bot Running..! Made by @Movies8777
+[28-Dec-25 16:56:24 - INFO] - bot - Bot is now running. Thanks to @Movies8777
+[28-Dec-25 16:56:25 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:16:56:25 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 16:56:25 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:16:56:25 +0000] "GET / HTTP/1.1" 200 181 "-" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 16:56:25 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:16:56:25 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 16:56:25 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:16:56:25 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 16:56:50 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:16:56:50 +0000] "GET /redirect?id=xkekr HTTP/1.1" 404 284 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 16:56:50 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:16:56:50 +0000] "GET /redirect?id=xkekr HTTP/1.1" 404 284 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 16:56:50 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:16:56:50 +0000] "GET /redirect HTTP/1.1" 400 238 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 16:56:56 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:16:56:56 +0000] "GET /redirect HTTP/1.1" 400 238 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+[28-Dec-25 16:56:57 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:16:56:57 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+[28-Dec-25 16:57:15 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/Movies8777
+[28-Dec-25 16:57:15 - INFO] - bot -        
+
+
+  ___ ___  ___  ___ ___ _    _____  _____  ___ _____ ___ 
+ / __/ _ \|   \| __| __| |  |_ _\ \/ / _ )/ _ \_   _/ __|
+| (_| (_) | |) | _|| _|| |__ | | >  <| _ \ (_) || | \__  \___\___/|___/|___|_| |____|___/_/\_\___/\___/ |_| |___/
+                                                         
+ 
+                                          
+[28-Dec-25 16:57:15 - INFO] - bot - Bot Running..! Made by @Movies8777
+[28-Dec-25 16:57:15 - INFO] - bot - Bot is now running. Thanks to @Movies8777
+[28-Dec-25 16:57:16 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:16:57:16 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 16:57:16 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:16:57:16 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=xkekr" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 16:57:16 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:16:57:16 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 16:57:18 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:16:57:18 +0000] "GET / HTTP/1.1" 200 181 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+[28-Dec-25 16:57:31 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/Movies8777
+[28-Dec-25 16:57:31 - INFO] - bot -        
+
+
+  ___ ___  ___  ___ ___ _    _____  _____  ___ _____ ___ 
+ / __/ _ \|   \| __| __| |  |_ _\ \/ / _ )/ _ \_   _/ __|
+| (_| (_) | |) | _|| _|| |__ | | >  <| _ \ (_) || | \__  \___\___/|___/|___|_| |____|___/_/\_\___/\___/ |_| |___/
+                                                         
+ 
+                                          
+[28-Dec-25 16:57:31 - INFO] - bot - Bot Running..! Made by @Movies8777
+[28-Dec-25 16:57:31 - INFO] - bot - Bot is now running. Thanks to @Movies8777
+[28-Dec-25 16:57:31 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:16:57:31 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 16:57:31 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:16:57:31 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 16:57:32 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:16:57:32 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 16:57:34 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:16:57:34 +0000] "GET / HTTP/1.1" 200 181 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+[28-Dec-25 16:57:57 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/Movies8777
+[28-Dec-25 16:57:57 - INFO] - bot -        
+
+
+  ___ ___  ___  ___ ___ _    _____  _____  ___ _____ ___ 
+ / __/ _ \|   \| __| __| |  |_ _\ \/ / _ )/ _ \_   _/ __|
+| (_| (_) | |) | _|| _|| |__ | | >  <| _ \ (_) || | \__  \___\___/|___/|___|_| |____|___/_/\_\___/\___/ |_| |___/
+                                                         
+ 
+                                          
+[28-Dec-25 16:57:57 - INFO] - bot - Bot Running..! Made by @Movies8777
+[28-Dec-25 16:57:57 - INFO] - bot - Bot is now running. Thanks to @Movies8777
+[28-Dec-25 16:57:57 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:16:57:57 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 16:57:57 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:16:57:57 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 16:57:58 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:16:57:58 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 16:58:18 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:16:58:18 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 16:58:18 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:16:58:18 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 16:58:19 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:16:58:19 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:01:20 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/Movies8777
+[28-Dec-25 17:01:20 - INFO] - bot -        
+
+
+  ___ ___  ___  ___ ___ _    _____  _____  ___ _____ ___ 
+ / __/ _ \|   \| __| __| |  |_ _\ \/ / _ )/ _ \_   _/ __|
+| (_| (_) | |) | _|| _|| |__ | | >  <| _ \ (_) || | \__  \___\___/|___/|___|_| |____|___/_/\_\___/\___/ |_| |___/
+                                                         
+ 
+                                          
+[28-Dec-25 17:01:20 - INFO] - bot - Bot Running..! Made by @Movies8777
+[28-Dec-25 17:01:20 - INFO] - bot - Bot is now running. Thanks to @Movies8777
+[28-Dec-25 17:01:21 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:01:21 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:01:21 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:01:21 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:01:21 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:01:21 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:01:38 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:01:38 +0000] "GET /redirect?id=5g36YuzXeUP27FuOc-bd6g HTTP/1.1" 200 2153 "-" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[28-Dec-25 17:01:39 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:01:39 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=5g36YuzXeUP27FuOc-bd6g" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[28-Dec-25 17:03:01 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:03:01 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:03:01 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:03:01 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:03:01 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:03:01 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:03:02 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:03:02 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:03:57 - ERROR] - pyrogram.dispatcher - Peer id invalid: -1003486676262
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 356, in _process_packet
+    parsed_update, handler_type = await parsed_result
+                                  ^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 111, in message_parser
+    await pyrogram.types.Message._parse(self.client, update.message, users, chats,
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/types/messages_and_media/message.py", line 1281, in _parse
+    reply_to_message = await client.get_messages(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/methods/messages/get_messages.py", line 119, in get_messages
+    messages = await utils.parse_messages(self, r, replies=replies)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/utils.py", line 120, in parse_messages
+    parsed_messages.append(await types.Message._parse(client, message, users, chats, topics, replies=0, business_connection_id=business_connection_id))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/types/messages_and_media/message.py", line 991, in _parse
+    forward_origin = types.MessageOrigin._parse(
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/types/messages_and_media/message_origin.py", line 65, in _parse
+    peer_type = utils.get_peer_type(peer_id)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/utils.py", line 324, in get_peer_type
+    raise ValueError(f"Peer id invalid: {peer_id}")
+ValueError: Peer id invalid: -1003486676262
+[28-Dec-25 17:06:53 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:06:53 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:06:53 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:06:53 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:06:53 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:06:53 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:07:00 - ERROR] - pyrogram.dispatcher - Peer id invalid: -1002770551986
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 356, in _process_packet
+    parsed_update, handler_type = await parsed_result
+                                  ^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 111, in message_parser
+    await pyrogram.types.Message._parse(self.client, update.message, users, chats,
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/types/messages_and_media/message.py", line 991, in _parse
+    forward_origin = types.MessageOrigin._parse(
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/types/messages_and_media/message_origin.py", line 65, in _parse
+    peer_type = utils.get_peer_type(peer_id)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/utils.py", line 324, in get_peer_type
+    raise ValueError(f"Peer id invalid: {peer_id}")
+ValueError: Peer id invalid: -1002770551986
+[28-Dec-25 17:07:02 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/Movies8777
+[28-Dec-25 17:07:02 - INFO] - bot -        
+
+
+  ___ ___  ___  ___ ___ _    _____  _____  ___ _____ ___ 
+ / __/ _ \|   \| __| __| |  |_ _\ \/ / _ )/ _ \_   _/ __|
+| (_| (_) | |) | _|| _|| |__ | | >  <| _ \ (_) || | \__  \___\___/|___/|___|_| |____|___/_/\_\___/\___/ |_| |___/
+                                                         
+ 
+                                          
+[28-Dec-25 17:07:02 - INFO] - bot - Bot Running..! Made by @Movies8777
+[28-Dec-25 17:08:29 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/Movies8777
+[28-Dec-25 17:08:29 - INFO] - bot -        
+
+
+  ___ ___  ___  ___ ___ _    _____  _____  ___ _____ ___ 
+ / __/ _ \|   \| __| __| |  |_ _\ \/ / _ )/ _ \_   _/ __|
+| (_| (_) | |) | _|| _|| |__ | | >  <| _ \ (_) || | \__  \___\___/|___/|___|_| |____|___/_/\_\___/\___/ |_| |___/
+                                                         
+ 
+                                          
+[28-Dec-25 17:08:29 - INFO] - bot - Bot Running..! Made by @Movies8777
+[28-Dec-25 17:08:29 - INFO] - bot - Bot is now running. Thanks to @Movies8777
+[28-Dec-25 17:08:29 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:08:29 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:08:29 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:08:29 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:08:30 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:08:30 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:09:31 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:09:31 +0000] "GET /redirect?id=QZntkECiRwesnJWvDSa3kQ HTTP/1.1" 200 2147 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+[28-Dec-25 17:09:32 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:09:32 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=QZntkECiRwesnJWvDSa3kQ" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+[28-Dec-25 17:09:35 - WARNING] - pyrogram.types.messages_and_media.message - `message.forward_date` property is deprecated and will be removed in future updates. Use `message.forward_origin.date` instead.
+[28-Dec-25 17:09:35 - WARNING] - pyrogram.types.messages_and_media.message - `message.forward_from_chat` property is deprecated and will be removed in future updates. Use `message.forward_origin.chat.sender_chat` instead.
+[28-Dec-25 17:09:35 - WARNING] - pyrogram.types.messages_and_media.message - `message.forward_sender_name` property is deprecated and will be removed in future updates. Use `message.forward_origin.sender_user_name` instead.
+[28-Dec-25 17:09:42 - WARNING] - pyrogram.types.messages_and_media.message - `message.forward_date` property is deprecated and will be removed in future updates. Use `message.forward_origin.date` instead.
+[28-Dec-25 17:09:42 - WARNING] - pyrogram.types.messages_and_media.message - `message.forward_date` property is deprecated and will be removed in future updates. Use `message.forward_origin.date` instead.
+[28-Dec-25 17:09:42 - WARNING] - pyrogram.types.messages_and_media.message - `message.forward_from_chat` property is deprecated and will be removed in future updates. Use `message.forward_origin.chat.sender_chat` instead.
+[28-Dec-25 17:09:42 - WARNING] - pyrogram.types.messages_and_media.message - `message.forward_sender_name` property is deprecated and will be removed in future updates. Use `message.forward_origin.sender_user_name` instead.
+[28-Dec-25 17:09:46 - WARNING] - pyrogram.types.messages_and_media.message - `message.forward_date` property is deprecated and will be removed in future updates. Use `message.forward_origin.date` instead.
+[28-Dec-25 17:09:46 - WARNING] - pyrogram.types.messages_and_media.message - `message.forward_date` property is deprecated and will be removed in future updates. Use `message.forward_origin.date` instead.
+[28-Dec-25 17:09:46 - WARNING] - pyrogram.types.messages_and_media.message - `message.forward_from_chat` property is deprecated and will be removed in future updates. Use `message.forward_origin.chat.sender_chat` instead.
+[28-Dec-25 17:09:46 - WARNING] - pyrogram.types.messages_and_media.message - `message.forward_sender_name` property is deprecated and will be removed in future updates. Use `message.forward_origin.sender_user_name` instead.
+[28-Dec-25 17:10:01 - WARNING] - pyrogram.types.messages_and_media.message - `message.forward_date` property is deprecated and will be removed in future updates. Use `message.forward_origin.date` instead.
+[28-Dec-25 17:10:01 - WARNING] - pyrogram.types.messages_and_media.message - `message.forward_date` property is deprecated and will be removed in future updates. Use `message.forward_origin.date` instead.
+[28-Dec-25 17:10:01 - WARNING] - pyrogram.types.messages_and_media.message - `message.forward_from_chat` property is deprecated and will be removed in future updates. Use `message.forward_origin.chat.sender_chat` instead.
+[28-Dec-25 17:10:01 - WARNING] - pyrogram.types.messages_and_media.message - `message.forward_sender_name` property is deprecated and will be removed in future updates. Use `message.forward_origin.sender_user_name` instead.
+[28-Dec-25 17:10:04 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:10:04 +0000] "GET /redirect?id=7HrWcUvV73Getx1Ud_RJsQ HTTP/1.1" 200 2153 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+[28-Dec-25 17:10:05 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:10:05 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=7HrWcUvV73Getx1Ud_RJsQ" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+[28-Dec-25 17:10:09 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/Movies8777
+[28-Dec-25 17:10:09 - INFO] - bot -        
+
+
+  ___ ___  ___  ___ ___ _    _____  _____  ___ _____ ___ 
+ / __/ _ \|   \| __| __| |  |_ _\ \/ / _ )/ _ \_   _/ __|
+| (_| (_) | |) | _|| _|| |__ | | >  <| _ \ (_) || | \__  \___\___/|___/|___|_| |____|___/_/\_\___/\___/ |_| |___/
+                                                         
+ 
+                                          
+[28-Dec-25 17:10:09 - INFO] - bot - Bot Running..! Made by @Movies8777
+[28-Dec-25 17:10:09 - INFO] - bot - Bot is now running. Thanks to @Movies8777
+[28-Dec-25 17:10:09 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:10:09 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:10:09 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:10:09 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:10:09 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:10:09 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:10:16 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:10:16 +0000] "GET /redirect?id=7HrWcUvV73Getx1Ud_RJsQ HTTP/1.1" 200 2153 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+[28-Dec-25 17:10:16 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:10:16 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=7HrWcUvV73Getx1Ud_RJsQ" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+[28-Dec-25 17:10:19 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:10:19 +0000] "GET /redirect?id=Ah_Vurhm4CmZpPqXJTOMiA HTTP/1.1" 200 2149 "-" "TelegramBot (like TwitterBot)"
+[28-Dec-25 17:10:21 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:10:21 +0000] "GET /redirect?id=Ah_Vurhm4CmZpPqXJTOMiA HTTP/1.1" 200 2149 "-" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[28-Dec-25 17:10:21 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:10:21 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=Ah_Vurhm4CmZpPqXJTOMiA" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[28-Dec-25 17:10:25 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:10:25 +0000] "GET /redirect?id=Ah_Vurhm4CmZpPqXJTOMiA HTTP/1.1" 200 2149 "-" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[28-Dec-25 17:10:25 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:10:25 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=Ah_Vurhm4CmZpPqXJTOMiA" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[28-Dec-25 17:11:19 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:11:19 +0000] "GET /redirect?id=7HrWcUvV73Getx1Ud_RJsQ HTTP/1.1" 200 2153 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+[28-Dec-25 17:11:20 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:11:20 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=7HrWcUvV73Getx1Ud_RJsQ" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+[28-Dec-25 17:12:03 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:12:03 +0000] "GET /redirect?id=Un8imARrE0SlU98oMPFtlw HTTP/1.1" 200 2147 "-" "Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.115 Mobile Safari/537.36"
+[28-Dec-25 17:12:04 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:12:04 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=Un8imARrE0SlU98oMPFtlw" "Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.115 Mobile Safari/537.36"
+[28-Dec-25 17:13:14 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:13:14 +0000] "GET /redirect?id=9hwHjSQUH0uZpzdpEMqCmA HTTP/1.1" 200 2145 "-" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[28-Dec-25 17:13:14 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:13:14 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=9hwHjSQUH0uZpzdpEMqCmA" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[28-Dec-25 17:17:30 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:17:30 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:18:11 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:18:11 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:18:36 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:18:36 +0000] "GET / HTTP/1.1" 200 181 "-" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:18:37 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:18:37 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:18:37 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:18:37 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:18:38 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:18:38 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:18:38 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:18:38 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:18:38 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:18:38 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:21:32 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:21:32 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:21:32 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:21:32 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:21:32 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:21:32 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:22:17 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/Movies8777
+[28-Dec-25 17:22:17 - INFO] - bot -        
+
+
+  ___ ___  ___  ___ ___ _    _____  _____  ___ _____ ___ 
+ / __/ _ \|   \| __| __| |  |_ _\ \/ / _ )/ _ \_   _/ __|
+| (_| (_) | |) | _|| _|| |__ | | >  <| _ \ (_) || | \__  \___\___/|___/|___|_| |____|___/_/\_\___/\___/ |_| |___/
+                                                         
+ 
+                                          
+[28-Dec-25 17:22:17 - INFO] - bot - Bot Running..! Made by @Movies8777
+[28-Dec-25 17:22:17 - INFO] - bot - Bot is now running. Thanks to @Movies8777
+[28-Dec-25 17:22:18 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:22:18 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:22:18 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:22:18 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:22:18 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:22:18 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:22:24 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:22:24 +0000] "GET / HTTP/1.1" 200 181 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+[28-Dec-25 17:22:24 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:22:24 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+[28-Dec-25 17:22:33 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:22:33 +0000] "GET /redirect HTTP/1.1" 400 238 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+[28-Dec-25 17:22:41 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:22:41 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:22:41 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:22:41 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:22:41 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:22:41 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:22:52 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/Movies8777
+[28-Dec-25 17:22:52 - INFO] - bot -        
+
+
+  ___ ___  ___  ___ ___ _    _____  _____  ___ _____ ___ 
+ / __/ _ \|   \| __| __| |  |_ _\ \/ / _ )/ _ \_   _/ __|
+| (_| (_) | |) | _|| _|| |__ | | >  <| _ \ (_) || | \__  \___\___/|___/|___|_| |____|___/_/\_\___/\___/ |_| |___/
+                                                         
+ 
+                                          
+[28-Dec-25 17:22:52 - INFO] - bot - Bot Running..! Made by @Movies8777
+[28-Dec-25 17:22:52 - INFO] - bot - Bot is now running. Thanks to @Movies8777
+[28-Dec-25 17:22:52 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:22:52 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:22:52 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:22:52 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:22:52 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:22:52 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:27:19 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:27:19 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:27:19 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:27:19 +0000] "GET / HTTP/1.1" 200 181 "-" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:27:20 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:27:20 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:27:20 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:27:20 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:27:49 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:27:49 +0000] "GET /redirect?id=-UHDlQRnk8d9zTW4r15ChQ HTTP/1.1" 302 205 "-" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[28-Dec-25 17:28:01 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:28:01 +0000] "GET /redirect?id=-UHDlQRnk8d9zTW4r15ChQ HTTP/1.1" 302 205 "-" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[28-Dec-25 17:28:11 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:28:11 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:28:11 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:28:11 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:28:11 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:28:11 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:30:33 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:30:33 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:30:33 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:30:33 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:30:33 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:30:33 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:31:17 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/Movies8777
+[28-Dec-25 17:31:17 - INFO] - bot -        
+
+
+  ___ ___  ___  ___ ___ _    _____  _____  ___ _____ ___ 
+ / __/ _ \|   \| __| __| |  |_ _\ \/ / _ )/ _ \_   _/ __|
+| (_| (_) | |) | _|| _|| |__ | | >  <| _ \ (_) || | \__  \___\___/|___/|___|_| |____|___/_/\_\___/\___/ |_| |___/
+                                                         
+ 
+                                          
+[28-Dec-25 17:31:17 - INFO] - bot - Bot Running..! Made by @Movies8777
+[28-Dec-25 17:31:18 - INFO] - bot - Bot is now running. Thanks to @Movies8777
+[28-Dec-25 17:31:18 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:31:18 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:31:18 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:31:18 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:31:18 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:31:18 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:31:23 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/Movies8777
+[28-Dec-25 17:31:23 - INFO] - bot -        
+
+
+  ___ ___  ___  ___ ___ _    _____  _____  ___ _____ ___ 
+ / __/ _ \|   \| __| __| |  |_ _\ \/ / _ )/ _ \_   _/ __|
+| (_| (_) | |) | _|| _|| |__ | | >  <| _ \ (_) || | \__  \___\___/|___/|___|_| |____|___/_/\_\___/\___/ |_| |___/
+                                                         
+ 
+                                          
+[28-Dec-25 17:31:23 - INFO] - bot - Bot Running..! Made by @Movies8777
+[28-Dec-25 17:31:23 - INFO] - bot - Bot is now running. Thanks to @Movies8777
+[28-Dec-25 17:31:25 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:31:25 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:31:54 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:31:54 +0000] "GET /redirect?id=drX4LV202P38qy0aX0XjGw HTTP/1.1" 200 514 "-" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[28-Dec-25 17:35:38 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:35:38 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:35:39 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:35:39 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:35:39 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:35:39 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:35:39 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:35:39 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:38:05 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:38:05 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:38:05 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:38:05 +0000] "GET / HTTP/1.1" 200 181 "-" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:38:06 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:38:06 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:38:06 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:38:06 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:41:03 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:41:03 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:41:03 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:41:03 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:41:03 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:41:03 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:41:44 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/Movies8777
+[28-Dec-25 17:41:44 - INFO] - bot -        
+
+
+  ___ ___  ___  ___ ___ _    _____  _____  ___ _____ ___ 
+ / __/ _ \|   \| __| __| |  |_ _\ \/ / _ )/ _ \_   _/ __|
+| (_| (_) | |) | _|| _|| |__ | | >  <| _ \ (_) || | \__  \___\___/|___/|___|_| |____|___/_/\_\___/\___/ |_| |___/
+                                                         
+ 
+                                          
+[28-Dec-25 17:41:44 - INFO] - bot - Bot Running..! Made by @Movies8777
+[28-Dec-25 17:41:44 - INFO] - bot - Bot is now running. Thanks to @Movies8777
+[28-Dec-25 17:41:44 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:41:44 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:41:44 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:41:44 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:41:44 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:41:44 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:41:59 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:41:59 +0000] "GET /redirect?id=S-dIWHx0j222XTF_tVYKSA HTTP/1.1" 200 1956 "-" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[28-Dec-25 17:41:59 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:41:59 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=S-dIWHx0j222XTF_tVYKSA" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[28-Dec-25 17:42:00 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:42:00 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=S-dIWHx0j222XTF_tVYKSA" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[28-Dec-25 17:42:16 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:42:16 +0000] "GET /redirect?id=S-dIWHx0j222XTF_tVYKSA HTTP/1.1" 200 1956 "-" "TelegramBot (like TwitterBot)"
+[28-Dec-25 17:43:44 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:43:44 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:43:45 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:43:45 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:43:45 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:43:45 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:45:27 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:45:27 +0000] "GET /redirect?id=S-dIWHx0j222XTF_tVYKSA HTTP/1.1" 200 1956 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+[28-Dec-25 17:45:37 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:45:37 +0000] "GET /redirect?id=S-dIWHx0j222XTF_tVYKSA HTTP/1.1" 200 1956 "-" "Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.115 Mobile Safari/537.36"
+[28-Dec-25 17:45:39 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:45:39 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=S-dIWHx0j222XTF_tVYKSA" "Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.115 Mobile Safari/537.36"
+[28-Dec-25 17:45:43 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:45:43 +0000] "GET /redirect?id=S-dIWHx0j222XTF_tVYKSA HTTP/1.1" 200 1956 "-" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[28-Dec-25 17:45:43 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:45:43 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=S-dIWHx0j222XTF_tVYKSA" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[28-Dec-25 17:45:44 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:45:44 +0000] "GET /redirect?id=S-dIWHx0j222XTF_tVYKSA HTTP/1.1" 200 1956 "-" "Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.115 Mobile Safari/537.36"
+[28-Dec-25 17:45:45 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:45:45 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=S-dIWHx0j222XTF_tVYKSA" "Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.115 Mobile Safari/537.36"
+[28-Dec-25 17:46:32 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:46:32 +0000] "GET /redirect?id=S-dIWHx0j222XTF_tVYKSA HTTP/1.1" 200 1956 "-" "Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.115 Mobile Safari/537.36"
+[28-Dec-25 17:46:33 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:46:33 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=S-dIWHx0j222XTF_tVYKSA" "Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.115 Mobile Safari/537.36"
+[28-Dec-25 17:48:01 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:48:00 +0000] "GET /redirect?id=S-dIWHx0j222XTF_tVYKSA HTTP/1.1" 200 1956 "-" "Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.115 Mobile Safari/537.36"
+[28-Dec-25 17:48:01 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:48:01 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=S-dIWHx0j222XTF_tVYKSA" "Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.115 Mobile Safari/537.36"
+[28-Dec-25 17:48:07 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:48:07 +0000] "GET /redirect?id=S-dIWHx0j222XTF_tVYKSA HTTP/1.1" 200 1956 "-" "Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.115 Mobile Safari/537.36"
+[28-Dec-25 17:48:07 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:48:07 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=S-dIWHx0j222XTF_tVYKSA" "Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.115 Mobile Safari/537.36"
+[28-Dec-25 17:48:29 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:48:29 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:49:02 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:49:02 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:50:33 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:50:33 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:50:34 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:50:34 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:50:36 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:50:36 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:50:36 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:50:36 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:50:36 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:50:36 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:51:46 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:51:45 +0000] "GET /redirect?id=S-dIWHx0j222XTF_tVYKSA HTTP/1.1" 200 1956 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+[28-Dec-25 17:51:46 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:51:46 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=S-dIWHx0j222XTF_tVYKSA" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+[28-Dec-25 17:52:04 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:52:04 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:53:10 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:53:10 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:53:11 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:53:11 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:53:12 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:53:12 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:53:12 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:53:12 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:54:22 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:54:22 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:54:22 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:54:22 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:54:22 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:54:22 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:55:19 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:55:19 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:55:19 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:55:19 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:55:20 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:55:20 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:58:38 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/Movies8777
+[28-Dec-25 17:58:38 - INFO] - bot -        
+
+
+  ___ ___  ___  ___ ___ _    _____  _____  ___ _____ ___ 
+ / __/ _ \|   \| __| __| |  |_ _\ \/ / _ )/ _ \_   _/ __|
+| (_| (_) | |) | _|| _|| |__ | | >  <| _ \ (_) || | \__  \___\___/|___/|___|_| |____|___/_/\_\___/\___/ |_| |___/
+                                                         
+ 
+                                          
+[28-Dec-25 17:58:38 - INFO] - bot - Bot Running..! Made by @Movies8777
+[28-Dec-25 17:58:38 - INFO] - bot - Bot is now running. Thanks to @Movies8777
+[28-Dec-25 17:58:40 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:58:40 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:58:40 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:58:40 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:58:40 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:58:40 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:58:57 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:58:57 +0000] "GET /redirect?id=9-75e3vfNWzOZ9HD9GYDpw HTTP/1.1" 200 3563 "-" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[28-Dec-25 17:58:58 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:58:58 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=9-75e3vfNWzOZ9HD9GYDpw" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[28-Dec-25 17:59:06 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:59:06 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:59:06 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:59:06 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:59:06 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:59:06 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 17:59:36 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:59:35 +0000] "GET /redirect?id=azObzEoVMRaqdK8Kfgaa5g HTTP/1.1" 200 3560 "-" "Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.115 Mobile Safari/537.36"
+[28-Dec-25 17:59:36 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:59:36 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=azObzEoVMRaqdK8Kfgaa5g" "Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.115 Mobile Safari/537.36"
+[28-Dec-25 17:59:44 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:59:44 +0000] "GET /redirect?id=azObzEoVMRaqdK8Kfgaa5g HTTP/1.1" 200 3560 "-" "Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.115 Mobile Safari/537.36"
+[28-Dec-25 17:59:44 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:17:59:44 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=azObzEoVMRaqdK8Kfgaa5g" "Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.115 Mobile Safari/537.36"
+[28-Dec-25 18:00:45 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:18:00:45 +0000] "GET /redirect?id=azObzEoVMRaqdK8Kfgaa5g HTTP/1.1" 200 3445 "-" "Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.115 Mobile Safari/537.36"
+[28-Dec-25 18:00:45 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:18:00:45 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=azObzEoVMRaqdK8Kfgaa5g" "Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.115 Mobile Safari/537.36"
+[28-Dec-25 18:01:00 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:18:01:00 +0000] "GET /redirect?id=azObzEoVMRaqdK8Kfgaa5g HTTP/1.1" 200 3445 "-" "Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.115 Mobile Safari/537.36"
+[28-Dec-25 18:01:00 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:18:01:00 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=azObzEoVMRaqdK8Kfgaa5g" "Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.115 Mobile Safari/537.36"
+[28-Dec-25 18:02:13 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:18:02:13 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 18:02:13 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:18:02:13 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 18:02:13 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:18:02:13 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 18:02:59 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/Movies8777
+[28-Dec-25 18:02:59 - INFO] - bot -        
+
+
+  ___ ___  ___  ___ ___ _    _____  _____  ___ _____ ___ 
+ / __/ _ \|   \| __| __| |  |_ _\ \/ / _ )/ _ \_   _/ __|
+| (_| (_) | |) | _|| _|| |__ | | >  <| _ \ (_) || | \__  \___\___/|___/|___|_| |____|___/_/\_\___/\___/ |_| |___/
+                                                         
+ 
+                                          
+[28-Dec-25 18:02:59 - INFO] - bot - Bot Running..! Made by @Movies8777
+[28-Dec-25 18:02:59 - INFO] - bot - Bot is now running. Thanks to @Movies8777
+[28-Dec-25 18:02:59 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:18:02:59 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 18:03:00 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:18:03:00 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 18:03:00 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:18:03:00 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 18:03:16 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:18:03:15 +0000] "GET /redirect?id=cCGpqS3ZdhwXrYbKimYpdA HTTP/1.1" 200 3979 "-" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[28-Dec-25 18:03:16 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:18:03:16 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=cCGpqS3ZdhwXrYbKimYpdA" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[28-Dec-25 18:03:19 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:18:03:19 +0000] "GET /%7Bfinal_destination%7D HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=cCGpqS3ZdhwXrYbKimYpdA" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[28-Dec-25 18:03:34 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:18:03:34 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 18:03:34 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:18:03:34 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 18:03:34 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:18:03:34 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 18:04:57 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:18:04:57 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 18:04:57 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:18:04:57 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 18:04:57 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:18:04:57 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 18:05:19 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/Movies8777
+[28-Dec-25 18:05:19 - INFO] - bot -        
+
+
+  ___ ___  ___  ___ ___ _    _____  _____  ___ _____ ___ 
+ / __/ _ \|   \| __| __| |  |_ _\ \/ / _ )/ _ \_   _/ __|
+| (_| (_) | |) | _|| _|| |__ | | >  <| _ \ (_) || | \__  \___\___/|___/|___|_| |____|___/_/\_\___/\___/ |_| |___/
+                                                         
+ 
+                                          
+[28-Dec-25 18:05:19 - INFO] - bot - Bot Running..! Made by @Movies8777
+[28-Dec-25 18:05:19 - INFO] - bot - Bot is now running. Thanks to @Movies8777
+[28-Dec-25 18:05:19 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:18:05:19 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 18:05:19 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:18:05:19 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 18:05:20 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:18:05:20 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 18:05:31 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:18:05:30 +0000] "GET /redirect?id=QOmsMp0L3q283pw6FDeb5Q HTTP/1.1" 200 4089 "-" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[28-Dec-25 18:05:31 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:18:05:31 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=QOmsMp0L3q283pw6FDeb5Q" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[28-Dec-25 18:05:53 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:18:05:53 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 18:05:53 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:18:05:53 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 18:05:54 - INFO] - aiohttp.access - 172.31.86.162 [28/Dec/2025:18:05:54 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 18:28:07 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/Movies8777
+[28-Dec-25 18:28:07 - INFO] - bot -        
+
+
+  ___ ___  ___  ___ ___ _    _____  _____  ___ _____ ___ 
+ / __/ _ \|   \| __| __| |  |_ _\ \/ / _ )/ _ \_   _/ __|
+| (_| (_) | |) | _|| _|| |__ | | >  <| _ \ (_) || | \__  \___\___/|___/|___|_| |____|___/_/\_\___/\___/ |_| |___/
+                                                         
+ 
+                                          
+[28-Dec-25 18:28:07 - INFO] - bot - Bot Running..! Made by @Movies8777
+[28-Dec-25 18:28:07 - INFO] - bot - Bot is now running. Thanks to @Movies8777
+[28-Dec-25 18:28:08 - INFO] - aiohttp.access - 172.31.110.66 [28/Dec/2025:18:28:08 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 18:28:21 - INFO] - aiohttp.access - 172.31.110.66 [28/Dec/2025:18:28:19 +0000] "GET /redirect?id=jufeuaEDy-ea0ORgD48Wzw HTTP/1.1" 200 4091 "-" "TelegramBot (like TwitterBot)"
+[28-Dec-25 18:28:30 - INFO] - aiohttp.access - 172.31.110.66 [28/Dec/2025:18:28:30 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 18:28:31 - INFO] - aiohttp.access - 172.31.110.66 [28/Dec/2025:18:28:30 +0000] "GET /redirect?id=jufeuaEDy-ea0ORgD48Wzw HTTP/1.1" 200 4091 "-" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[28-Dec-25 18:28:32 - INFO] - aiohttp.access - 172.31.110.66 [28/Dec/2025:18:28:32 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=jufeuaEDy-ea0ORgD48Wzw" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[28-Dec-25 18:28:40 - INFO] - aiohttp.access - 172.31.110.66 [28/Dec/2025:18:28:39 +0000] "GET /redirect?id=jufeuaEDy-ea0ORgD48Wzw HTTP/1.1" 200 4091 "-" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[28-Dec-25 18:28:40 - INFO] - aiohttp.access - 172.31.110.66 [28/Dec/2025:18:28:40 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=jufeuaEDy-ea0ORgD48Wzw" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[28-Dec-25 18:29:01 - INFO] - aiohttp.access - 172.31.110.66 [28/Dec/2025:18:29:00 +0000] "GET /redirect?id=S-dIWHx0j222XTF_tVYKSA HTTP/1.1" 200 4089 "-" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[28-Dec-25 18:29:01 - INFO] - aiohttp.access - 172.31.110.66 [28/Dec/2025:18:29:01 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=S-dIWHx0j222XTF_tVYKSA" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[28-Dec-25 18:29:33 - INFO] - aiohttp.access - 172.31.110.66 [28/Dec/2025:18:29:33 +0000] "GET /redirect?id=jufeuaEDy-ea0ORgD48Wzw HTTP/1.1" 200 4091 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+[28-Dec-25 18:29:34 - INFO] - aiohttp.access - 172.31.110.66 [28/Dec/2025:18:29:34 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=jufeuaEDy-ea0ORgD48Wzw" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+[28-Dec-25 18:29:59 - INFO] - aiohttp.access - 172.31.110.66 [28/Dec/2025:18:29:59 +0000] "GET /redirect?id=jufeuaEDy-ea0ORgD48Wzw HTTP/1.1" 200 4091 "-" "Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.115 Mobile Safari/537.36"
+[28-Dec-25 18:30:00 - INFO] - aiohttp.access - 172.31.110.66 [28/Dec/2025:18:30:00 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=jufeuaEDy-ea0ORgD48Wzw" "Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.115 Mobile Safari/537.36"
+[28-Dec-25 18:30:19 - INFO] - aiohttp.access - 172.31.110.66 [28/Dec/2025:18:30:19 +0000] "GET /redirect?id=azObzEoVMRaqdK8Kfgaa5g HTTP/1.1" 200 3974 "-" "Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.115 Mobile Safari/537.36"
+[28-Dec-25 18:30:19 - INFO] - aiohttp.access - 172.31.110.66 [28/Dec/2025:18:30:19 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=azObzEoVMRaqdK8Kfgaa5g" "Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.115 Mobile Safari/537.36"
+[28-Dec-25 18:31:53 - INFO] - aiohttp.access - 172.31.110.66 [28/Dec/2025:18:31:52 +0000] "GET /redirect?id=jufeuaEDy-ea0ORgD48Wzw HTTP/1.1" 200 4091 "-" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[28-Dec-25 18:31:53 - INFO] - aiohttp.access - 172.31.110.66 [28/Dec/2025:18:31:53 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=jufeuaEDy-ea0ORgD48Wzw" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[28-Dec-25 18:32:01 - INFO] - aiohttp.access - 172.31.110.66 [28/Dec/2025:18:32:00 +0000] "GET /redirect?id=jufeuaEDy-ea0ORgD48Wzw HTTP/1.1" 200 4091 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+[28-Dec-25 18:33:36 - INFO] - aiohttp.access - 172.31.110.66 [28/Dec/2025:18:33:36 +0000] "GET /redirect?id=jufeuaEDy-ea0ORgD48Wzw HTTP/1.1" 200 4091 "-" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[28-Dec-25 18:33:36 - INFO] - aiohttp.access - 172.31.110.66 [28/Dec/2025:18:33:36 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=jufeuaEDy-ea0ORgD48Wzw" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[28-Dec-25 18:34:41 - INFO] - aiohttp.access - 172.31.110.66 [28/Dec/2025:18:34:40 +0000] "GET /redirect?id=Un8imARrE0SlU98oMPFtlw HTTP/1.1" 200 4090 "-" "Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.115 Mobile Safari/537.36"
+[28-Dec-25 18:34:41 - INFO] - aiohttp.access - 172.31.110.66 [28/Dec/2025:18:34:41 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=Un8imARrE0SlU98oMPFtlw" "Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.115 Mobile Safari/537.36"
+[28-Dec-25 18:36:02 - INFO] - aiohttp.access - 172.31.110.66 [28/Dec/2025:18:36:02 +0000] "GET / HTTP/1.1" 200 181 "-" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 18:36:03 - INFO] - aiohttp.access - 172.31.110.66 [28/Dec/2025:18:36:03 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 18:36:04 - INFO] - aiohttp.access - 172.31.110.66 [28/Dec/2025:18:36:04 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 18:36:04 - INFO] - aiohttp.access - 172.31.110.66 [28/Dec/2025:18:36:04 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 18:36:04 - INFO] - aiohttp.access - 172.31.110.66 [28/Dec/2025:18:36:04 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 18:36:04 - INFO] - aiohttp.access - 172.31.110.66 [28/Dec/2025:18:36:04 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 18:37:50 - INFO] - aiohttp.access - 172.31.110.66 [28/Dec/2025:18:37:50 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 18:37:50 - INFO] - aiohttp.access - 172.31.110.66 [28/Dec/2025:18:37:50 +0000] "GET / HTTP/1.1" 200 181 "-" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 18:37:50 - INFO] - aiohttp.access - 172.31.110.66 [28/Dec/2025:18:37:50 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 18:37:51 - INFO] - aiohttp.access - 172.31.110.66 [28/Dec/2025:18:37:51 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 18:39:47 - INFO] - aiohttp.access - 172.31.110.66 [28/Dec/2025:18:39:47 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 18:39:47 - INFO] - aiohttp.access - 172.31.110.66 [28/Dec/2025:18:39:47 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[28-Dec-25 18:39:48 - INFO] - aiohttp.access - 172.31.110.66 [28/Dec/2025:18:39:48 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[29-Dec-25 11:20:27 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/Movies8777
+[29-Dec-25 11:20:27 - INFO] - bot -        
+
+
+  ___ ___  ___  ___ ___ _    _____  _____  ___ _____ ___ 
+ / __/ _ \|   \| __| __| |  |_ _\ \/ / _ )/ _ \_   _/ __|
+| (_| (_) | |) | _|| _|| |__ | | >  <| _ \ (_) || | \__  \___\___/|___/|___|_| |____|___/_/\_\___/\___/ |_| |___/
+                                                         
+ 
+                                          
+[29-Dec-25 11:20:27 - INFO] - bot - Bot Running..! Made by @Movies8777
+[29-Dec-25 11:20:27 - INFO] - bot - Bot is now running. Thanks to @Movies8777
+[29-Dec-25 11:20:31 - INFO] - aiohttp.access - 172.31.82.2 [29/Dec/2025:11:20:31 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[29-Dec-25 11:20:46 - INFO] - aiohttp.access - 172.31.82.2 [29/Dec/2025:11:20:46 +0000] "GET / HTTP/1.1" 200 181 "-" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[29-Dec-25 11:20:46 - INFO] - aiohttp.access - 172.31.82.2 [29/Dec/2025:11:20:46 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[29-Dec-25 11:20:46 - INFO] - aiohttp.access - 172.31.82.2 [29/Dec/2025:11:20:46 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[29-Dec-25 11:20:46 - INFO] - aiohttp.access - 172.31.82.2 [29/Dec/2025:11:20:46 +0000] "GET / HTTP/1.1" 200 181 "-" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[29-Dec-25 11:20:47 - INFO] - aiohttp.access - 172.31.82.2 [29/Dec/2025:11:20:47 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[29-Dec-25 11:21:04 - INFO] - aiohttp.access - 172.31.82.2 [29/Dec/2025:11:21:03 +0000] "GET /redirect?id=IAG04foeRz52xoqVEeAX3Q HTTP/1.1" 200 4257 "-" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[29-Dec-25 11:21:04 - INFO] - aiohttp.access - 172.31.82.2 [29/Dec/2025:11:21:04 +0000] "GET /mark-visited?id=IAG04foeRz52xoqVEeAX3Q HTTP/1.1" 200 180 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=IAG04foeRz52xoqVEeAX3Q" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[29-Dec-25 11:21:04 - INFO] - aiohttp.access - 172.31.82.2 [29/Dec/2025:11:21:04 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=IAG04foeRz52xoqVEeAX3Q" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[29-Dec-25 11:21:11 - INFO] - aiohttp.access - 172.31.82.2 [29/Dec/2025:11:21:11 +0000] "GET /redirect?id=IAG04foeRz52xoqVEeAX3Q HTTP/1.1" 200 3595 "-" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[29-Dec-25 11:21:11 - INFO] - aiohttp.access - 172.31.82.2 [29/Dec/2025:11:21:11 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=IAG04foeRz52xoqVEeAX3Q" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[29-Dec-25 11:21:19 - INFO] - aiohttp.access - 172.31.82.2 [29/Dec/2025:11:21:19 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[29-Dec-25 11:21:19 - INFO] - aiohttp.access - 172.31.82.2 [29/Dec/2025:11:21:19 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[29-Dec-25 11:21:19 - INFO] - aiohttp.access - 172.31.82.2 [29/Dec/2025:11:21:19 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[29-Dec-25 11:22:26 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/Movies8777
+[29-Dec-25 11:22:26 - INFO] - bot -        
+
+
+  ___ ___  ___  ___ ___ _    _____  _____  ___ _____ ___ 
+ / __/ _ \|   \| __| __| |  |_ _\ \/ / _ )/ _ \_   _/ __|
+| (_| (_) | |) | _|| _|| |__ | | >  <| _ \ (_) || | \__  \___\___/|___/|___|_| |____|___/_/\_\___/\___/ |_| |___/
+                                                         
+ 
+                                          
+[29-Dec-25 11:22:26 - INFO] - bot - Bot Running..! Made by @Movies8777
+[29-Dec-25 11:22:26 - INFO] - bot - Bot is now running. Thanks to @Movies8777
+[29-Dec-25 11:22:27 - INFO] - aiohttp.access - 172.31.82.2 [29/Dec/2025:11:22:27 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[29-Dec-25 11:22:27 - INFO] - aiohttp.access - 172.31.82.2 [29/Dec/2025:11:22:27 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[29-Dec-25 11:22:27 - INFO] - aiohttp.access - 172.31.82.2 [29/Dec/2025:11:22:27 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[29-Dec-25 11:22:35 - INFO] - aiohttp.access - 172.31.82.2 [29/Dec/2025:11:22:35 +0000] "GET /redirect?id=57wdb2XWC4ST9p2MzTEtNQ HTTP/1.1" 200 4257 "-" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[29-Dec-25 11:22:36 - INFO] - aiohttp.access - 172.31.82.2 [29/Dec/2025:11:22:36 +0000] "GET /mark-visited?id=57wdb2XWC4ST9p2MzTEtNQ HTTP/1.1" 200 180 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=57wdb2XWC4ST9p2MzTEtNQ" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[29-Dec-25 11:22:36 - INFO] - aiohttp.access - 172.31.82.2 [29/Dec/2025:11:22:36 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=57wdb2XWC4ST9p2MzTEtNQ" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[29-Dec-25 11:22:41 - INFO] - aiohttp.access - 172.31.82.2 [29/Dec/2025:11:22:41 +0000] "GET /redirect?id=57wdb2XWC4ST9p2MzTEtNQ HTTP/1.1" 200 4257 "-" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[29-Dec-25 11:22:42 - INFO] - aiohttp.access - 172.31.82.2 [29/Dec/2025:11:22:42 +0000] "GET /mark-visited?id=57wdb2XWC4ST9p2MzTEtNQ HTTP/1.1" 200 180 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=57wdb2XWC4ST9p2MzTEtNQ" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[29-Dec-25 11:22:42 - INFO] - aiohttp.access - 172.31.82.2 [29/Dec/2025:11:22:42 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=57wdb2XWC4ST9p2MzTEtNQ" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[29-Dec-25 11:22:46 - INFO] - aiohttp.access - 172.31.82.2 [29/Dec/2025:11:22:46 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[29-Dec-25 11:22:46 - INFO] - aiohttp.access - 172.31.82.2 [29/Dec/2025:11:22:46 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[29-Dec-25 11:22:46 - INFO] - aiohttp.access - 172.31.82.2 [29/Dec/2025:11:22:46 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[29-Dec-25 11:24:41 - ERROR] - pyrogram.dispatcher - Peer id invalid: -1003122267073
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 356, in _process_packet
+    parsed_update, handler_type = await parsed_result
+                                  ^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 111, in message_parser
+    await pyrogram.types.Message._parse(self.client, update.message, users, chats,
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/types/messages_and_media/message.py", line 991, in _parse
+    forward_origin = types.MessageOrigin._parse(
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/types/messages_and_media/message_origin.py", line 65, in _parse
+    peer_type = utils.get_peer_type(peer_id)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/pyrogram/utils.py", line 324, in get_peer_type
+    raise ValueError(f"Peer id invalid: {peer_id}")
+ValueError: Peer id invalid: -1003122267073
+[29-Dec-25 11:34:47 - INFO] - aiohttp.access - 172.31.82.2 [29/Dec/2025:11:34:47 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[29-Dec-25 11:34:47 - INFO] - aiohttp.access - 172.31.82.2 [29/Dec/2025:11:34:47 +0000] "GET / HTTP/1.1" 200 181 "-" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[29-Dec-25 11:34:48 - INFO] - aiohttp.access - 172.31.82.2 [29/Dec/2025:11:34:48 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[29-Dec-25 11:34:48 - INFO] - aiohttp.access - 172.31.82.2 [29/Dec/2025:11:34:48 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[29-Dec-25 11:35:28 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/Movies8777
+[29-Dec-25 11:35:28 - INFO] - bot -        
+
+
+  ___ ___  ___  ___ ___ _    _____  _____  ___ _____ ___ 
+ / __/ _ \|   \| __| __| |  |_ _\ \/ / _ )/ _ \_   _/ __|
+| (_| (_) | |) | _|| _|| |__ | | >  <| _ \ (_) || | \__  \___\___/|___/|___|_| |____|___/_/\_\___/\___/ |_| |___/
+                                                         
+ 
+                                          
+[29-Dec-25 11:35:28 - INFO] - bot - Bot Running..! Made by @Movies8777
+[29-Dec-25 11:35:28 - INFO] - bot - Bot is now running. Thanks to @Movies8777
+[29-Dec-25 11:35:29 - INFO] - aiohttp.access - 172.31.82.2 [29/Dec/2025:11:35:29 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[29-Dec-25 11:35:29 - INFO] - aiohttp.access - 172.31.82.2 [29/Dec/2025:11:35:29 +0000] "GET / HTTP/1.1" 200 181 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[29-Dec-25 11:35:29 - INFO] - aiohttp.access - 172.31.82.2 [29/Dec/2025:11:35:29 +0000] "GET / HTTP/1.1" 200 181 "https://replit.com/" "Mozilla/5.0 (Linux; Android 15; V2509 Build/AP3A.240905.015.A2_CS_V000L1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.34 Mobile Safari/537.36 Replit-Bonsai/2.169.1 (Android 15)"
+[29-Dec-25 11:36:12 - INFO] - aiohttp.access - 172.31.82.2 [29/Dec/2025:11:36:11 +0000] "GET /redirect?id=QN4pueLsSRP9sJsELrv-fg HTTP/1.1" 200 4258 "-" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[29-Dec-25 11:36:12 - INFO] - aiohttp.access - 172.31.82.2 [29/Dec/2025:11:36:12 +0000] "GET /mark-visited?id=QN4pueLsSRP9sJsELrv-fg HTTP/1.1" 200 180 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=QN4pueLsSRP9sJsELrv-fg" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[29-Dec-25 11:36:12 - INFO] - aiohttp.access - 172.31.82.2 [29/Dec/2025:11:36:12 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=QN4pueLsSRP9sJsELrv-fg" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[29-Dec-25 11:38:53 - INFO] - aiohttp.access - 172.31.82.2 [29/Dec/2025:11:38:53 +0000] "GET /redirect?id=QN4pueLsSRP9sJsELrv-fg HTTP/1.1" 404 288 "-" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[29-Dec-25 11:38:53 - INFO] - aiohttp.access - 172.31.82.2 [29/Dec/2025:11:38:53 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://8d3a4429-9acb-4fde-bac4-f56a60714ed7-00-13dhxu61b10sm.pike.replit.dev/redirect?id=QN4pueLsSRP9sJsELrv-fg" "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.34 Mobile Safari/537.36"
+[29-Dec-25 13:44:31 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/Movies8777
+[29-Dec-25 13:44:31 - INFO] - bot -        
+
+
+  ___ ___  ___  ___ ___ _    _____  _____  ___ _____ ___ 
+ / __/ _ \|   \| __| __| |  |_ _\ \/ / _ )/ _ \_   _/ __|
+| (_| (_) | |) | _|| _|| |__ | | >  <| _ \ (_) || | \__  \___\___/|___/|___|_| |____|___/_/\_\___/\___/ |_| |___/
+                                                         
+ 
+                                          
+[29-Dec-25 13:44:31 - INFO] - bot - Bot Running..! Made by @Movies8777
+[29-Dec-25 13:44:31 - INFO] - bot - Bot is now running. Thanks to @Movies8777
+[29-Dec-25 13:45:09 - INFO] - aiohttp.access - 172.31.107.162 [29/Dec/2025:13:45:08 +0000] "GET /redirect?id=rCJsNKcWhBcXhxbNz_n44Q HTTP/1.1" 200 4256 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+[29-Dec-25 13:45:09 - INFO] - aiohttp.access - 172.31.107.162 [29/Dec/2025:13:45:09 +0000] "GET /mark-visited?id=rCJsNKcWhBcXhxbNz_n44Q HTTP/1.1" 200 180 "https://570eef2c-e13f-4fc4-847b-91e2f50c1af4-00-2pjb8ktij466j.sisko.replit.dev/redirect?id=rCJsNKcWhBcXhxbNz_n44Q" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+[29-Dec-25 13:45:09 - INFO] - aiohttp.access - 172.31.107.162 [29/Dec/2025:13:45:09 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://570eef2c-e13f-4fc4-847b-91e2f50c1af4-00-2pjb8ktij466j.sisko.replit.dev/redirect?id=rCJsNKcWhBcXhxbNz_n44Q" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+[29-Dec-25 13:45:38 - INFO] - aiohttp.access - 172.31.107.162 [29/Dec/2025:13:45:38 +0000] "GET /redirect?id=rCJsNKcWhBcXhxbNz_n44Q HTTP/1.1" 200 4256 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+[29-Dec-25 13:45:38 - INFO] - aiohttp.access - 172.31.107.162 [29/Dec/2025:13:45:38 +0000] "GET /mark-visited?id=rCJsNKcWhBcXhxbNz_n44Q HTTP/1.1" 200 180 "https://570eef2c-e13f-4fc4-847b-91e2f50c1af4-00-2pjb8ktij466j.sisko.replit.dev/redirect?id=rCJsNKcWhBcXhxbNz_n44Q" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+[29-Dec-25 13:45:39 - INFO] - aiohttp.access - 172.31.107.162 [29/Dec/2025:13:45:39 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://570eef2c-e13f-4fc4-847b-91e2f50c1af4-00-2pjb8ktij466j.sisko.replit.dev/redirect?id=rCJsNKcWhBcXhxbNz_n44Q" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+[29-Dec-25 13:46:11 - INFO] - aiohttp.access - 172.31.107.162 [29/Dec/2025:13:46:11 +0000] "GET /redirect?id=rCJsNKcWhBcXhxbNz_n44Q HTTP/1.1" 200 4256 "-" "TelegramBot (like TwitterBot)"
+[29-Dec-25 13:46:16 - INFO] - aiohttp.access - 172.31.107.162 [29/Dec/2025:13:46:16 +0000] "GET /redirect?id=rCJsNKcWhBcXhxbNz_n44Q HTTP/1.1" 200 4256 "-" "Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.115 Mobile Safari/537.36"
+[29-Dec-25 13:46:17 - INFO] - aiohttp.access - 172.31.107.162 [29/Dec/2025:13:46:17 +0000] "GET /mark-visited?id=rCJsNKcWhBcXhxbNz_n44Q HTTP/1.1" 200 180 "https://570eef2c-e13f-4fc4-847b-91e2f50c1af4-00-2pjb8ktij466j.sisko.replit.dev/redirect?id=rCJsNKcWhBcXhxbNz_n44Q" "Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.115 Mobile Safari/537.36"
+[29-Dec-25 13:46:18 - INFO] - aiohttp.access - 172.31.107.162 [29/Dec/2025:13:46:18 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://570eef2c-e13f-4fc4-847b-91e2f50c1af4-00-2pjb8ktij466j.sisko.replit.dev/redirect?id=rCJsNKcWhBcXhxbNz_n44Q" "Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.115 Mobile Safari/537.36"
+[29-Dec-25 13:47:18 - INFO] - aiohttp.access - 172.31.107.162 [29/Dec/2025:13:47:18 +0000] "GET /redirect?id=rCJsNKcWhBcXhxbNz_n44Q HTTP/1.1" 404 288 "-" "Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.115 Mobile Safari/537.36"
+[29-Dec-25 13:47:18 - INFO] - aiohttp.access - 172.31.107.162 [29/Dec/2025:13:47:18 +0000] "GET /favicon.ico HTTP/1.1" 404 174 "https://570eef2c-e13f-4fc4-847b-91e2f50c1af4-00-2pjb8ktij466j.sisko.replit.dev/redirect?id=rCJsNKcWhBcXhxbNz_n44Q" "Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.115 Mobile Safari/537.36"
